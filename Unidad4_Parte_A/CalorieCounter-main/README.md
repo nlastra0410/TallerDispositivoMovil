@@ -1,8 +1,8 @@
-# Calories Counter
+# Contador de calorias
 
 ## Descripción
 
-Calories Counter es una aplicación móvil desarrollada con React Native que te permite llevar un seguimiento de las calorías que consumes diariamente. Con la capacidad de establecer un límite máximo de calorías por día, esta aplicación te ayuda a mantener un control consciente de tu ingesta calórica.
+contador de calorias es una aplicación móvil desarrollada con React Native que te permite llevar un seguimiento de las calorías que consumes diariamente. Con la capacidad de establecer un límite máximo de calorías por día, esta aplicación te ayuda a mantener un control consciente de tu ingesta calórica.
 
 ## Características Principales
 
@@ -35,7 +35,7 @@ Es necesario tener Android Studio o un programa similar instalado para ejecutar 
 1. Clona este repositorio:
 
 ``
-git clone https://github.com/tu-usuario/calories-counter.git
+git clone 
 ``
 
 2. Instala las dependencias:
